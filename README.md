@@ -31,13 +31,15 @@ Os verbetes serão *submodules* deste projeto (repositório [RAZ](http://github.
 
 
 
-# Quais são os Verbetes Disponíveis?
+# _"Quero Ler os Verbetes Existentes"_
 
-**Listar os verbetes aqui mesmo ou deixar o link para a página com os verbetes?**
+[Os verbetes existentes estão aqui.](???)
+
+**Link para a página com os verbetes**
 
 
 
-# Como Contribuir com o Projeto?
+# _"Quero Contribuir com o Projeto?"_
 
 
 
@@ -47,10 +49,19 @@ Os verbetes serão *submodules* deste projeto (repositório [RAZ](http://github.
 
 
 
+## Dando Pitaco na Organização do Projeto
+
+**Encaminhar para as _issues_ do projeto**
+
+
+
 ## Propor um Verbete Novo
 
 **Pensar em uma política de inclusão de verbete**
 
+### Quais verbetes já foram propostos mas ainda não foram escritos
+
+### Como se voluntariar para escrever um verbete já propostos
 
 
 ## Colaborar com um Verbete já Existente
@@ -59,11 +70,17 @@ Os verbetes serão *submodules* deste projeto (repositório [RAZ](http://github.
 
 
 
-## _Como Posso ser Útil?_: Ajuda é sempre bem vinda
+## _"Como Posso ser Útil?"_: Ajuda é sempre bem vinda
 
 ### Neccessidades Atuais de Ajuda 
 
 **Listar aqui _onde_ ajuda é desejada e _por quem_ é desejada**
+
+
+## Autoria e Redação Coletiva
+
+**Mencionar que pretendemos um dia transformar em livro coletivo**
+
 
 
 
