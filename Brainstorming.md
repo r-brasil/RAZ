@@ -1,11 +1,12 @@
 - R e dados espaciais/geográficos
 - R e análise de redes/grafos
 - R e as formas de integração com outras ferramentas
-- R e Visualização de dados
-- R e Visualização 3D
-- R e Análise de dados financeiros
-- R e Animações
-- R e Ecologia
+- R e visualização de dados
+- R e visualização 3D
+- R e análise de dados financeiros
+- R e animações
+- R e ecologia
 - R e mineração de texto
 - R e dashboards interativas
+- R e bioinformática
 
