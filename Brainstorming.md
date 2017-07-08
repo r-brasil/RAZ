@@ -1,3 +1,8 @@
-- dados espaciais/geográficos
-- análise de redes/grafos
+- R e dados espaciais/geográficos
+- R e análise de redes/grafos
 - R e as formas de integração com outras ferramentas
+- R e Visualização de dados
+- R e Visualização 3D
+- R e Análise de dados financeiros
+- R e Animações
+- R e Ecologia
