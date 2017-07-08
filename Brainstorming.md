@@ -6,3 +6,6 @@
 - R e Análise de dados financeiros
 - R e Animações
 - R e Ecologia
+- R e mineração de texto
+- R e dashboards interativas
+
