@@ -1,92 +1,65 @@
----
-title: "RAZ -- R de A a Z"
-author: "R-Brasil"
-output: 
-    html_document: 
-        toc: true
-        toc_depth: 2
-        toc_float:
-            collapsed: false
-            smooth_scroll: true
-        number_sections: true
----
+# *RAZ* - R de A a Z #
+______________________________________________________________________
 
-# Seja bem vindo ao **Projeto _RAZ -- R de A a Z_**
+**Sumário**
 
-**Mensagem de boas vindas aqui**
+  - [Introdução](#intro)
+  - [Estrutura](#estrutura)
+  - [Colaboração e Desenvolvimento](#colaborao-e-desenvolvimento)
+  - [Relato de *Bugs* e Sugestões](#relato-de-bugs-e-sugestes)
 
 
+  
+# Introdução {#intro}
 
-## O que é o **Projeto _R de A a Z_**?
+Seja bem vindo ao **Projeto _RAZ -- R de A a Z_**. O *RAZ* é um projeto colaborativo desenvolvido entre membros da comunidade brasileira do software [R de computação estatística](https://www.r-project.org/). A 
+ideia é  desenvolver um material amplo, com os mais diversos conteúdos
+sobre R, por isso o nome - *R de A a Z*. Por fim, pretendemos que este 
+material um dia se torne um livro coletivo. 
 
-**Descrição sucinta do projeto aqui**
+A concepção do projeto ocorreu no 
+[grupo do Telegram do R-Brasil](t.me/rbrasil). Este grupo possui 
+atualmente mais de 250 membros, e tem como propósito a interação e
+troca de conhecimento entre pessoas que tem interesse em R de uma forma
+geral. 
 
+# Estrutura  {#estrutura}
 
+O projeto é construído a partir de *verbetes*. Cada *verbete* engloba um 
+tópico do material. 
 
-## Estrutura do *RAZ*
-
-Cada verbete será um projeto independente, com um repositório próprio ("RAZ-<verbete>") no [R-Brasil](http://github.com/r-brasil), de modo que cada contribuidor possa *forkar* só o verbete (sem baixar toooooooodos os outros verbetes), editar à vontade e dar *pull request* para incorporar as modificações.
-
-Os verbetes serão *submodules* deste projeto (repositório [RAZ](http://github.com/R-Brasil/RAZ)) no git
-
-
-
-# _"Quero Ler os Verbetes Existentes"_
-
-[Os verbetes existentes estão aqui.](???)
-
-**Link para a página com os verbetes**
+[Os verbetes existentes estão aqui.]()
 
 
 
-# _"Quero Contribuir com o Projeto?"_
+# Colaboração e Desenvolvimento {#colaborao-e-desenvolvimento}
+
+Colaborações são muito bem vindas. Para colaborar, basta:
+
+  > 1. Clonar o repositório;
+  > 2. Criar o seu próprio *branch*;
+  > 3. Fazer as edições desejadas e subir para o repositório no *git*;
+  > 4. Fazer um *pull request*.
+  
+Antes, no entanto, é recomendável entrar em contato com um dos membros 
+para comunicar sua intenção de colaboração e ler o 
+[Guia de Contribuição](). Detalhes especifícos sobre os passos acima
+estarão descritos lá. 
+
+Para acompanhar a organização do projeto, basta marcar um *watch* no
+repositório do GitHub. Para propor um verbete novo, basta criar uma
+*issue* no repositório comunicando a ideia e colocá-la em discussão
+entre os membros. 
 
 
+# Relato de Bugs e Sugestões {#relato-de-bugs-e-sugestes}
 
-## Acompanhando a Organização do Projeto
-
-**Falar para marcar _watch_ no GitHub**
-
-
-
-## Dando Pitaco na Organização do Projeto
-
-**Encaminhar para as _issues_ do projeto**
+Para o relato de bugs, pode-se abrir *issues* no repositório. O mesmo 
+serve para propor novos verbetes: basta criar uma *issue* no repositório
+comunicando a ideia e colocá-la em discussão entre os membros. 
+<!------------------------------------------- -->
 
 
-
-## Propor um Verbete Novo
-
-**Pensar em uma política de inclusão de verbete**
-
-### Quais verbetes já foram propostos mas ainda não foram escritos
-
-### Como se voluntariar para escrever um verbete já propostos
-
-
-## Colaborar com um Verbete já Existente
-
-**Forkar o repositório _RAZ-<verbete>_, editar e dar _pull request_**
-
-
-
-## _"Como Posso ser Útil?"_: Ajuda é sempre bem vinda
-
-### Neccessidades Atuais de Ajuda 
-
-**Listar aqui _onde_ ajuda é desejada e _por quem_ é desejada**
-
-
-## Autoria e Redação Coletiva
-
-**Mencionar que pretendemos um dia transformar em livro coletivo**
-
-
-
-
-# O Que e Quem é o _R-Brasil_? 
-
-**Descrever o grupo do Telegram e deixar um _link_**
 
 
 
