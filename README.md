@@ -3,14 +3,14 @@ ______________________________________________________________________
 
 **Sumário**
 
-  - [Introdução](#intro)
-  - [Estrutura](#estrutura)
-  - [Colaboração e Desenvolvimento](#colaborao-e-desenvolvimento)
-  - [Relato de *Bugs* e Sugestões](#relato-de-bugs-e-sugestes)
+  - Introdução
+  - Estrutura
+  - Colaboração e Desenvolvimento
+  - Relato de *Bugs* e Sugestões
 
 
   
-# Introdução {#intro}
+# Introdução 
 
 Seja bem vindo ao **Projeto _RAZ -- R de A a Z_**. O *RAZ* é um projeto colaborativo desenvolvido entre membros da comunidade brasileira do software [R de computação estatística](https://www.r-project.org/). A 
 ideia é  desenvolver um material amplo, com os mais diversos conteúdos
@@ -23,7 +23,7 @@ atualmente mais de 250 membros, e tem como propósito a interação e
 troca de conhecimento entre pessoas que tem interesse em R de uma forma
 geral. 
 
-# Estrutura  {#estrutura}
+# Estrutura  
 
 O projeto é construído a partir de *verbetes*. Cada *verbete* engloba um 
 tópico do material. 
@@ -32,7 +32,7 @@ tópico do material.
 
 
 
-# Colaboração e Desenvolvimento {#colaborao-e-desenvolvimento}
+# Colaboração e Desenvolvimento 
 
 Colaborações são muito bem vindas. Para colaborar, basta:
 
@@ -52,7 +52,7 @@ repositório do GitHub. Para propor um verbete novo, basta criar uma
 entre os membros. 
 
 
-# Relato de Bugs e Sugestões {#relato-de-bugs-e-sugestes}
+# Relato de Bugs e Sugestões 
 
 Para o relato de bugs, pode-se abrir *issues* no repositório. O mesmo 
 serve para propor novos verbetes: basta criar uma *issue* no repositório
