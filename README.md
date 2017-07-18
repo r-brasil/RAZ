@@ -43,8 +43,9 @@ Colaborações são muito bem vindas. Para colaborar, basta:
   
 Antes, no entanto, é recomendável entrar em contato com um dos membros 
 para comunicar sua intenção de colaboração e ler o 
-[Guia de Contribuição](). Detalhes especifícos sobre os passos acima
-estarão descritos lá. 
+[Guia de Contribuição e Estilo](https://github.com/r-brasil/RAZqblob/devel/CONTRIBUTING.md). 
+Detalhes especifícos sobre o estilo 
+de código adotado estão descritos lá.
 
 Para acompanhar a organização do projeto, basta marcar um *watch* no
 repositório do GitHub. Para propor um verbete novo, basta criar uma
