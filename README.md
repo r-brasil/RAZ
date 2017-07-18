@@ -43,7 +43,7 @@ Colaborações são muito bem vindas. Para colaborar, basta:
   
 Antes, no entanto, é recomendável entrar em contato com um dos membros 
 para comunicar sua intenção de colaboração e ler o 
-[Guia de Contribuição e Estilo](https://github.com/r-brasil/RAZqblob/devel/CONTRIBUTING.md). 
+[Guia de Contribuição e Estilo](https://github.com/r-brasil/RAZ/blob/devel/CONTRIBUTING.md). 
 Detalhes especifícos sobre o estilo 
 de código adotado estão descritos lá.
 
