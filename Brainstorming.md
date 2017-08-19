@@ -9,4 +9,4 @@
 - R e mineração de texto
 - R e dashboards interativas
 - R e bioinformática
-
+- R e Big Data
