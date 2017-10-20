@@ -10,3 +10,7 @@
 - R e dashboards interativas
 - R e bioinformática
 - R e Big Data
+- R e Aprendizado de Máquina
+- R e Extensões de Modelos de Regressão
+- R e Music Information Retrieval 
+- R e Análise de Texto
